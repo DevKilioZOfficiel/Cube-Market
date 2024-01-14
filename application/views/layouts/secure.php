@@ -1,0 +1,1 @@
+<?php $random_id = rand(1,9999); ?>
